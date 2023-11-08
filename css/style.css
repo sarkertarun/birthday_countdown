@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    width: 1170px;
+    margin: 0 auto;
+}
+
+#counter_part{
+    padding: 80px 0;
+    background: rgb(66, 166, 66);
+
+}
+.heading_part{
+    padding-bottom: 50px;
+    text-align: center;
+    color: white;
+    font-family: 'Dancing Script', cursive;
+    font-weight: 700;
+    font-size: 70px;
+
+}
+.item_part{
+    display: flex;
+
+}
+
+.item{
+    width: 25%;
+    padding: 20px 30px;
+    background: red;
+    border-radius: 30px;
+    border: 2px solid black;
+    text-align: center;
+    color: white;
+    text-transform: uppercase;
+    margin-right: 20px;
+    font-family: 'Dancing Script', cursive;
+    font-weight: 700;
+}
+
